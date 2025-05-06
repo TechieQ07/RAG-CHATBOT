@@ -1,0 +1,24 @@
+# Streamlit and UI
+streamlit==1.35.0
+streamlit-chat
+
+# Langchain and related
+langchain==0.1.14
+python-dotenv
+
+# Hugging Face and Transformers
+huggingface-hub==0.22.2
+transformers==4.40.1
+sentence-transformers==2.6.1
+torch==2.2.2
+
+# Document parsing
+PyPDF2==3.0.1
+python-docx==1.1.0
+docx2txt
+
+# Embedding and vector store
+faiss-cpu==1.7.4
+
+# Optional: For handling more file types and formats
+unstructured
